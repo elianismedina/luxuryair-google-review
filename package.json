@@ -15,7 +15,11 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.454.0",
+<<<<<<< HEAD
     "next": "^15.5.7",
+=======
+    "next": "15.5.7",
+>>>>>>> 81dd42bd6d52dc73172baa52dc6596a801e2a246
     "qrcode.react": "latest",
     "react": "19.2.0",
     "react-dom": "19.2.0",
